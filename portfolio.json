@@ -1,0 +1,10 @@
+[
+  {
+    "coinAddress": "MEMECOIN_ADDRESS_1",
+    "amount": 100
+  },
+  {
+    "coinAddress": "MEMECOIN_ADDRESS_2",
+    "amount": 50
+  }
+]
