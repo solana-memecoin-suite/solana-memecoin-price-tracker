@@ -1,1 +1,11 @@
+[
+  {
+    "coinAddress": "MEMECOIN_ADDRESS_1",
+    "targetPrice": 0.1
+  },
+  {
+    "coinAddress": "MEMECOIN_ADDRESS_2",
+    "targetPrice": 0.05
+  }
+]
 
